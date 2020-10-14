@@ -13,7 +13,13 @@
                 ]
             ],
             "elementKey": "",
-            "elementDesc": ""
+            "elementDesc": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 2033000000,
+            "errMessage": "",
+            "isRowExpanded": false
         },
         {
             "command": "Type",
@@ -33,15 +39,16 @@
                 ]
             ],
             "input": "Bob",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "email",
             "elementDesc": "email",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 6102000000,
+            "duration": 1135000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Verify Text",
@@ -61,15 +68,16 @@
                 ]
             ],
             "input": "Bob",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "",
             "elementDesc": "",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 957000000,
+            "duration": 973000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Type",
@@ -89,15 +97,16 @@
                 ]
             ],
             "input": "Bob",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "password",
             "elementDesc": "password",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1187000000,
+            "duration": 1118000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Verify Text",
@@ -117,15 +126,16 @@
                 ]
             ],
             "input": "Bob",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "",
             "elementDesc": "",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 587000000,
+            "duration": 589000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -145,15 +155,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "sign.in",
             "elementDesc": "sign.in",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 600000000,
+            "duration": 601000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "indexColumn": "",
@@ -168,7 +179,13 @@
                 ]
             ],
             "elementKey": "",
-            "elementDesc": ""
+            "elementDesc": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 2076000000,
+            "errMessage": "",
+            "isRowExpanded": false
         },
         {
             "command": "Click",
@@ -188,15 +205,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "transacations",
             "elementDesc": "transacations",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1768000000,
+            "duration": 586000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Type",
@@ -216,15 +234,16 @@
                 ]
             ],
             "input": "1000",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "enter.amount",
             "elementDesc": "enter.amount",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1200000000,
+            "duration": 935000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "indexColumn": "",
@@ -239,7 +258,13 @@
                 ]
             ],
             "elementKey": "",
-            "elementDesc": ""
+            "elementDesc": "",
+            "tcId": "3",
+            "tsId": 2,
+            "testData": false,
+            "duration": 564000000,
+            "errMessage": "",
+            "isRowExpanded": false
         },
         {
             "command": "Verify Present",
@@ -259,15 +284,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "credit",
             "elementDesc": "credit",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 560000000,
+            "duration": 571000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -287,15 +313,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "credit",
             "elementDesc": "credit",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 666000000,
+            "duration": 607000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -315,15 +342,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": ".fund..transfer",
             "elementDesc": ".fund..transfer",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1804000000,
+            "duration": 2920000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -339,15 +367,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "com.qmetry.bank.bankingapplication.id.select.payee",
             "elementDesc": "com.qmetry.bank.bankingapplication.id.select.payee",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1091000000,
+            "duration": 982000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -363,15 +392,16 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "android.id.text1",
             "elementDesc": "android.id.text1",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 1682000000,
+            "duration": 1744000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Type",
@@ -391,15 +421,16 @@
                 ]
             ],
             "input": "34",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "enter.amount",
             "elementDesc": "enter.amount",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 736000000,
+            "duration": 610000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Verify Text",
@@ -419,15 +450,16 @@
                 ]
             ],
             "input": "34",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "",
             "elementDesc": "",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 605000000,
+            "duration": 586000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         },
         {
             "command": "Click",
@@ -447,19 +479,21 @@
                 ]
             ],
             "input": "",
-            "status": "Passed",
+            "status": "NotRun",
             "elementKey": "fund.transfer",
             "elementDesc": "fund.transfer",
             "indexColumn": "",
-            "tcId": "5",
+            "tcId": "3",
             "tsId": 2,
-            "duration": 651000000,
+            "duration": 604000000,
             "errMessage": "",
-            "isRowExpanded": false
+            "isRowExpanded": false,
+            "testData": false
         }
     ],
     "type": "android",
     "capabilities": {
+        "command": "start",
         "capObj": {
             "perfectoServer": {
                 "host": "",
@@ -487,8 +521,14 @@
             "path": "/wd/hub"
         },
         "type": "android",
-        "mode": "play"
+        "isMobileWebOnDevice": false
     },
     "testDataExample": [],
+    "isTCValid": true,
+    "externalTestData": false,
+    "dbDetails": {},
+    "recordSessionType": "multiple",
+    "tags": [],
+    "shared": false,
     "executionStatus": "NotRun"
 }
